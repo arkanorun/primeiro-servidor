@@ -1,0 +1,12 @@
+{
+  "name": "aula-primeiro-servidor",
+  "version": "1.0.0",
+  "description": "Este projeto foi criado no curso na aula de meu prieiro servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
